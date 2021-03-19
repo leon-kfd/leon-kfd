@@ -1,5 +1,10 @@
 ### 👋 Hello! I'm Leon-kfd.
 
+- 🔭 I’m currently working as a Front-end Developer in Guangzhou, China
+- 🌱 I’m currently learning Typescript/Vite/Threejs
+- 💬 Ask me about anything related to Javascript/Node/Vue
+- 📫 How to reach me: <a rel="me" href="mailto://kfd_personal@163.com">kfd_personal@163.com</a>
+
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
