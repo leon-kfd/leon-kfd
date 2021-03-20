@@ -5,10 +5,13 @@
 - 💬 Ask me about anything related to Javascript/Node/Vue
 - 📫 How to reach me: <a rel="me" href="mailto://kfd_personal@163.com">kfd_personal@163.com</a>
 
+-------
+
 📊 **This week I spent my time on**
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=leon_kfd&hide_title=true&hide_border=true&langs_count=5)
 
+-------
 
 **📝 Latest Blog Posts**
 
