@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue3实现自定义右键菜单](https://kongfandong.cn/blog/mouse-menu-introduction/)
 - [Dashboard自定义面板项目介绍](https://kongfandong.cn/blog/design-of-dashboard/)
 - [开发OnlineCodeEditor过程的一些记录](https://kongfandong.cn/blog/record-for-online-code-editor/)
 - [Howdyjs组件库迁移Vue3设计与总结](https://kongfandong.cn/blog/design-of-howdy-next/)
 - [使用D3.js将离散的点形成平滑曲线及其应用](https://kongfandong.cn/blog/d3-mulitpoint-connection/)
-- [使用Taro-next将个人网盘功能扩展到微信小程序](https://kongfandong.cn/blog/design-of-weapp-file-system/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
