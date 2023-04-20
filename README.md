@@ -7,9 +7,9 @@
 
 -------
 
-📊 **This week I spent my time on**
+📊 **Github stats**
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=leon_kfd&hide_title=true&hide_border=true&langs_count=5)
+![Github stats](https://github-readme-stats.vercel.app/api?username=leon-kfd&show_icons=true&theme=transparent)
 
 -------
 
