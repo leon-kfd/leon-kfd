@@ -13,7 +13,7 @@
 
 -------
 
-**📝 Latest Blog Posts**
+📝 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [使用Element.animate添加文字与图片动画](https://kongfandong.cn/blog/element-animate/)
@@ -24,3 +24,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 -------
+
+🚀 **Howdz Image Service**
+
+![Movie Lines](https://i.howdz.xyz/api/movie?w=300&no-cache=1)
+
+A funny image service, visit [https://i.howdz.xyz](https://i.howdz.xyz) for more details.
+
