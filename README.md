@@ -27,7 +27,6 @@
 
 🚀 **Howdz Image Service**
 
-![Movie Lines](https://i.howdz.xyz/api/movie?w=300&no-cache=1)
+[![Movie Lines](https://i.howdz.xyz/api/movie?w=300&no-cache=1)](https://i.howdz.xyz)
 
 A funny image service, visit [https://i.howdz.xyz](https://i.howdz.xyz) for more details.
-
